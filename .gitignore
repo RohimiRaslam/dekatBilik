@@ -22,5 +22,4 @@ pnpm-debug.log*
 *.sw?
 
 # environment folder
-../../bilik
 bilik
